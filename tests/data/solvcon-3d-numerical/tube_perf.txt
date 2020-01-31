@@ -1,0 +1,6 @@
+Performance of tube:
+  14.1237 seconds in marching solver.
+  0.0235396 seconds/step.
+  6.26553 microseconds/cell.
+  0.159604 Mcells/seconds.
+  0.798018 Mvariables/seconds.
